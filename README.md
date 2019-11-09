@@ -16,4 +16,4 @@
   
   
 
-## NOTA: Este repositorio fue creado para mostrar el código fuente de los proyectos elaborados en mi aprendizaje del framework React JS
+### NOTA: Este repositorio fue creado para mostrar el código fuente de los proyectos elaborados en mi aprendizaje del framework React JS
