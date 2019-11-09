@@ -15,4 +15,5 @@
   * Accede y mira de lo que te estoy hablando. Visita el sitio pulsando en: [ver proyecto](https://reactjsveterinaria.netlify.com/).
   
   
-NOTA: Este repositorio fue creado para mostrar el código fuente de los proyectos elaborados en mi aprendizaje del framework React JS
+
+## NOTA: Este repositorio fue creado para mostrar el código fuente de los proyectos elaborados en mi aprendizaje del framework React JS
